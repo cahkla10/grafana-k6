@@ -1,2 +1,1 @@
-# k6-api-testing
-API Testing Sekelton using Grafana K6
+# Grafana K6 Sekeleton for API & Performance Testing
