@@ -1,1 +1,1 @@
-# Grafana K6 Sekeleton for API & Performance Testing
+# Grafana K6 Skeleton for API & Performance Testing
