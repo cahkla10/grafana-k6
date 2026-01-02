@@ -1,7 +1,29 @@
-# Grafana K6 Skeleton for API & Performance Testing
+# API testing
+API testing skeleton example using Grafana K6
 
-I try to create an example of api testing and performance testing skeleton using Grafana K6.
-For api testing, in `api-testing folder`
-For performance testing, in `performance-testing folder`
+## Dummy 
+I use https://dummyjson.com/docs for dummy
 
-When I create this project, I use `K6 version 1.4.2`
+## Project Structure
+| folder    | purpose                                   |
+|-          |-                                          |
+| config    | for configuration need                    |
+| data      | for data testing                          |
+| plugin    | for additional plugin or libs             |
+| report    | for html report after executed            |
+| tests     | for http request and scenario testing     |
+| utils     | for utility need                          |
+
+## Run for api testing
+- Open `terminal` or `command prompt`
+- Type `k6 run /tests/api/scenario/smoke.api.test.js`
+- Press `Enter`
+
+## Run for performance testing
+- Open `terminal` or `command prompt`
+- Type `k6 run /tests/performance/<js file>`
+- Examples:
+ `k6 run /tests/performance/smoke.test.js`<br>
+ `k6 run /tests/performance/average.test.js`<br>
+ `k6 run /tests/performance/stress.test.js`
+- Press `Enter`

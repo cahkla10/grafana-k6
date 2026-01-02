@@ -1,0 +1,390 @@
+     â–ˆ AUTH
+
+       âœ“ Login User And Get Token - status is 200
+       âœ“ Login User And Get Token - body is not empty
+       âœ— Login User And Get Token - time 1072.8468
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Login User And Get Token - username matches expected
+       âœ— Login User And Get Token - time 1073.8274
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 1076.9086
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get Current Auth User - status is 200
+       âœ“ Get Current Auth User - body is not empty
+       âœ— Get Current Auth User - time 571.63
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 569.2441
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get Current Auth User - firstname matches expected
+       âœ“ Get Current Auth User - lastname matches expected
+       âœ“ Get Current Auth User - username matches expected
+       âœ— Get Current Auth User - time 791.4847
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Refresh Auth Session - status is 200
+       âœ“ Refresh Auth Session - body is not empty
+       âœ— Refresh Auth Session - time 604.4934
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - access_token is refreshed
+        â†³  97% â€” âœ“ 38 / âœ— 1
+       âœ— Refresh Auth Session - time 707.968
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 795.1539
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 588.5338
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 585.765
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 599.9104
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 612.57
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 649.8875
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 586.0496
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 583.715
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 625.1863
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 591.5838
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 600.6378
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 536.7549
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 502.8983
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 514.6225
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 468.4095
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 489.6331
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 499.7748
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 457.0873
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 487.6103
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 565.6639
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 591.7292
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 550.6751
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 586.32
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 602.2383
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 661.6877
+        â†³  0% â€” âœ“ 0 / âœ— 2
+       âœ— Get Current Auth User - time 691.8491
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 398.4792
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 333.6184
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 757.7632
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 530.0764
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 564.0663
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 600.6022
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 527.0493
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 531.0669
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 486.2704
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 496.1428
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 606.2511
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 560.9197
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 550.4904
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 530.0016
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 532.4396
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 515.3258
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 573.4542
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 487.8724
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 555.621
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 542.5535
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 560.5897
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 572.8624
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 291.1629
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 289.3145
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 295.5233
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 335.3825
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 344.3641
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 400.3297
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 435.9172
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 416.7848
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 535.5356
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 303.0364
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 301.307
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 312.6523
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 772.4209
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 771.423
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 608.9172
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 764.5169
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 661.2096
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 785.2721
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 504.0028
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 477.7696
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 507.4817
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 480.8563
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 485.5916
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 718.1374
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 595.6584
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 599.7347
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 568.8175
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 593.3227
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 599.3798
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 1118.3819
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 692.8688
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 868.187
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 467.9524
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 605.2809
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 572.1615
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 712.4621
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 644.9755
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 1091.9417
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 581.7143
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 576.7898
+        â†³  0% â€” âœ“ 0 / âœ— 2
+       âœ— Refresh Auth Session - time 510.2472
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 533.2571
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 544.9581
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 569.6469
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 559.4379
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 555.8431
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 582.6731
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 579.4649
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 588.6624
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 573.6877
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 529.0837
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 539.6045
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 566.4182
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 534.868
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Login User And Get Token - time 556.1007
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get Current Auth User - time 383.5076
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 383.5076
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 379.5931
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Refresh Auth Session - time 375.8881
+        â†³  0% â€” âœ“ 0 / âœ— 1
+
+     â–ˆ PRODUCT
+
+       âœ“ Get a Single Product - status is 200
+       âœ“ Get a Single Product - body is not empty
+       âœ“ Get a Single Product - time 32.2941
+       âœ“ Get a Single Product - time 34.2603
+       âœ“ Get a Single Product - time 32.7565
+       âœ— Add New Product - status is 200
+        â†³  0% â€” âœ“ 0 / âœ— 39
+       âœ“ Add New Product - body is not empty
+       âœ— Add New Product - time 480.8387
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Add New Product - new product is equal
+       âœ— Add New Product - time 492.6602
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 659.6243
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 32.1898
+       âœ“ Get a Single Product - time 35.4351
+       âœ— Add New Product - time 544.8496
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 34.0144
+       âœ— Add New Product - time 520.0585
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 549.0009
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 35.0869
+       âœ“ Get a Single Product - time 41.6927
+       âœ“ Get a Single Product - time 33.1757
+       âœ— Add New Product - time 476.6828
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 485.0846
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 555.4911
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 36.6266
+       âœ“ Get a Single Product - time 35.4697
+       âœ— Add New Product - time 367.6082
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 362.086
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 29.699
+       âœ— Add New Product - time 279.8348
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get a Single Product - time 426.8422
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 33.4653
+       âœ“ Get a Single Product - time 30.7688
+       âœ— Add New Product - time 464.4521
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 465.2409
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 477.5921
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 38.5227
+       âœ“ Get a Single Product - time 31.0572
+       âœ“ Get a Single Product - time 41.1162
+       âœ— Add New Product - time 634.0495
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 636.6282
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 625.2447
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 29.8009
+       âœ“ Get a Single Product - time 31.3649
+       âœ“ Get a Single Product - time 35.401
+       âœ— Add New Product - time 326.6752
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 344.5145
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 324.3093
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 30.6295
+       âœ“ Get a Single Product - time 37.0332
+       âœ“ Get a Single Product - time 32.7919
+       âœ— Add New Product - time 455.658
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 456.6846
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 455.5111
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 31.1648
+       âœ“ Get a Single Product - time 34.3092
+       âœ“ Get a Single Product - time 32.3912
+       âœ— Add New Product - time 645.3303
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 652.62
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 461.7425
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 34.7732
+       âœ“ Get a Single Product - time 31.6418
+       âœ“ Get a Single Product - time 32.1493
+       âœ— Add New Product - time 547.7754
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 486.0737
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 501.138
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 30.7881
+       âœ— Add New Product - time 747.1183
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 737.549
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Get a Single Product - time 323.0202
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 494.3505
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 34.4462
+       âœ“ Get a Single Product - time 33.255
+       âœ— Add New Product - time 528.6031
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 553.7883
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 32.6619
+       âœ— Add New Product - time 498.963
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 30.7301
+       âœ“ Get a Single Product - time 34.2733
+       âœ— Add New Product - time 343.0566
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ— Add New Product - time 363.2259
+        â†³  0% â€” âœ“ 0 / âœ— 1
+       âœ“ Get a Single Product - time 33.1047
+       âœ— Add New Product - time 356.5894
+        â†³  0% â€” âœ“ 0 / âœ— 1
+
+     checks.........................: 75.82% âœ“ 621    âœ— 198
+     data_received..................: 343 kB 11 kB/s
+     data_sent......................: 70 kB  2.3 kB/s
+     group_duration.................: avg=1.17s     min=337.25ms med=1.07s    max=2.78s   p(90)=1.95s     p(95)=2.21s    
+     http_req_blocked...............: avg=1.33ms    min=0s       med=0s       max=88.25ms p(90)=0s        p(95)=0s       
+     http_req_connecting............: avg=409.48Âµs min=0s       med=0s       max=28.16ms p(90)=0s        p(95)=0s       
+     http_req_duration..............: avg=453.49ms  min=29.69ms  med=515.32ms max=1.11s   p(90)=679.78ms  p(95)=771.72ms 
+       { expected_response:true }...: avg=453.49ms  min=29.69ms  med=515.32ms max=1.11s   p(90)=679.78ms  p(95)=771.72ms 
+     http_req_failed................: 0.00%  âœ“ 0      âœ— 195
+     http_req_receiving.............: avg=2.67ms    min=0s       med=0s       max=90.2ms  p(90)=3.31ms    p(95)=11.96ms  
+     http_req_sending...............: avg=285.16Âµs min=0s       med=150.1Âµs max=2.96ms  p(90)=594.49Âµs p(95)=643.72Âµs
+     http_req_tls_handshaking.......: avg=466.89Âµs min=0s       med=0s       max=31.62ms p(90)=0s        p(95)=0s       
+     http_req_waiting...............: avg=450.52ms  min=24.8ms   med=515.25ms max=1.11s   p(90)=659.79ms  p(95)=771.37ms 
+     http_reqs......................: 195    6.302651/s
+     iteration_duration.............: avg=2.35s     min=1.61s    med=2.35s    max=3.49s   p(90)=2.8s      p(95)=3.03s    
+     iterations.....................: 39     1.26053/s
+     vus............................: 3      min=3      max=3  
+     vus_max........................: 3      min=3      max=3  
