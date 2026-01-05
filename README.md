@@ -1,5 +1,5 @@
-# API testing
-API testing skeleton example using Grafana K6
+# API performance testing
+API & performance testing skeleton example using Grafana K6
 
 ## Dummy 
 I use https://dummyjson.com/docs for dummy
