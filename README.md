@@ -1,4 +1,4 @@
-# API performance testing
+# API & performance testing
 API & performance testing skeleton example using Grafana K6
 
 ## Dummy 
